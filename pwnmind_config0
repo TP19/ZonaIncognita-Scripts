@@ -1,3 +1,4 @@
+# custom config to use splitmind with pwngdb + tmux
 python
 import splitmind
 (splitmind.Mind()
