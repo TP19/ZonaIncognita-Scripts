@@ -1,0 +1,1 @@
+sudo python Arduino_ARP_COP.py en0 /dev/tty.wchusbserial1420
